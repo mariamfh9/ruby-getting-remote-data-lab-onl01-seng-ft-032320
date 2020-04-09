@@ -4,7 +4,7 @@ require 'open-uri'
 class GetRequester
   
   def get_response_body 
-    URL = ""
+    url = ""
   end 
   
   def parse_json
