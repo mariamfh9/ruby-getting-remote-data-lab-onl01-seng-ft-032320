@@ -4,7 +4,7 @@ require 'json'
 
 class GetRequester
   
-  #URL = "http://data.cityofnewyork.us/resource/uvks-tn5n.json"
+  URL = "https://learn-co-curriculum.github.io/json-site-example/endpoints/people.json"
   
   def get_response_body 
   #uri = URI.parse(URL)
